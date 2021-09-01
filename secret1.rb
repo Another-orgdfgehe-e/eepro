@@ -10,3 +10,5 @@ end
 def self.class
   BOMB.explode
 end
+
+Test
