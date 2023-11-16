@@ -1,0 +1,2 @@
+class Opulence
+end
