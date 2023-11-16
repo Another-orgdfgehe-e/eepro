@@ -3,3 +3,4 @@
 # with GG app
 
 # without merge queue
+# without merge queue and without required
